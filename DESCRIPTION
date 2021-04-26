@@ -1,0 +1,14 @@
+Package: RPackag
+Title: Geometric Functions In R
+Version: 1.0.0.0
+Authors@R: 
+    person(given = "Lauren",
+           family = "Berns",
+           role = c("aut", "cre"),
+           email = "laurenberns3@gmail.com",
+Description: This package seeks to provide a series of functions for use when managing and determining dimensions and features of geometric shapes. This includes 3D shapes such as spheres and cones.
+License: Creative Commons CC0 1.0 Universal
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
